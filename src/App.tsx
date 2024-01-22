@@ -144,7 +144,7 @@ const App: Component = () => {
         </div>
         <div flex justify-between md:text-lg mt-6 font-bold>
           <a
-            href='https://www.github.com/ares-chang/wooden-fish'
+            href='https://www.github.com/xiaowansm5'
             target='_blank'
             color='hover:#eee'
             flex
@@ -153,8 +153,8 @@ const App: Component = () => {
             <i i-carbon-logo-github inline-block></i>
             <span>GitHub</span>
           </a>
-          <a href='https://www.github.com/ares-chang' color='hover:#eee'>
-            @AresChang
+          <a href='https://wwang.pw' color='hover:#eee'>
+            @XiaoWanSM
           </a>
         </div>
       </footer>
